@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😹, I'm Erick A. Bautista</h1>
 <h3 align="center">A passionate software developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Software Development, Data Engineering, and Cyber Security**
+- 🌱 I’m currently learning **Software Development and Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://eabautista.netlify.app/](https://eabautista.netlify.app/)
 
