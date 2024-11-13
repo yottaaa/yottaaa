@@ -47,6 +47,9 @@
   <a href="https://www.linkedin.com/in/erick-agrade-bautista/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://eabautista.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=netlify&label=&color=00bcba&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="netlify logo"  />
+  </a>
 </div>
 
 ###
